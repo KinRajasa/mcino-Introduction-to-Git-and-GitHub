@@ -1,0 +1,4 @@
+$ git revert 2a2ad8e
+
+[main fdb1437] Revert "fixed typo in README"
+1 file changed, 1 deletion(-)
